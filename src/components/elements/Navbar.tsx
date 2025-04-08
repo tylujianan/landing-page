@@ -1,6 +1,6 @@
 import Container from "../shared/Container"
 import NavItem from "../shared/NavItem"
-import logo from "../../assets/icon.svg"
+import logo from "/assets/icon.svg"
 import BtnLink from "../shared/BtnLink"
 import useThemeStore from "../../store/ThemeStore" // Import BtnLink component instead of NavIte
 
